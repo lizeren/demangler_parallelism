@@ -1,0 +1,1417 @@
+{
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE5_Impl8_M_allocEv": {
+        "bare_name": "_M_alloc",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_Impl::_M_alloc",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE5_Impl8_M_allocEv"
+    },
+    "_ZNSt10shared_ptrI6ClassAEC2Ev": {
+        "bare_name": "shared_ptr",
+        "demangled_name": "std::shared_ptr<ClassA>::shared_ptr",
+        "function_name": "_ZNSt10shared_ptrI6ClassAEC2Ev"
+    },
+    "_ZSt14__relocate_a_1IPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES6_SaIS5_EET0_T_S9_S8_RT1_": {
+        "bare_name": "allocator > > >",
+        "demangled_name": "std::__relocate_a_1<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+        "function_name": "_ZSt14__relocate_a_1IPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES6_SaIS5_EET0_T_S9_S8_RT1_"
+    },
+    "_ZN11Node_cyclicD2Ev": {
+        "bare_name": "~Node_cyclic",
+        "demangled_name": "Node_cyclic::~Node_cyclic",
+        "function_name": "_ZN11Node_cyclicD2Ev"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE7destroyIS5_EEvPT_": {
+        "bare_name": "allocator > >",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::destroy<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE7destroyIS5_EEvPT_"
+    },
+    "_ZN9StaticLib7isPrimeEi": {
+        "bare_name": "isPrime",
+        "demangled_name": "StaticLib::isPrime",
+        "function_name": "_ZN9StaticLib7isPrimeEi"
+    },
+    "_Z17recursiveFunctioni": {
+        "bare_name": "recursiveFunction",
+        "demangled_name": "recursiveFunction",
+        "function_name": "_Z17recursiveFunctioni"
+    },
+    "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EE7_M_swapERS2_": {
+        "bare_name": "_M_swap",
+        "demangled_name": "std::__shared_count<(__gnu_cxx::_Lock_policy)2>::_M_swap",
+        "function_name": "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EE7_M_swapERS2_"
+    },
+    "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC2I6ClassBSaIvEJEEERPT_St20_Sp_alloc_shared_tagIT0_EDpOT1_": {
+        "bare_name": "allocator>",
+        "demangled_name": "std::__shared_count<(__gnu_cxx::_Lock_policy)2>::__shared_count<ClassB, std::allocator<void>>",
+        "function_name": "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC2I6ClassBSaIvEJEEERPT_St20_Sp_alloc_shared_tagIT0_EDpOT1_"
+    },
+    "_ZNSt17_Function_handlerIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEPS7_E10_M_managerERSt9_Any_dataRKSA_St18_Manager_operation": {
+        "bare_name": "_M_manager",
+        "demangled_name": "std::_Function_handler<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic), std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_manager",
+        "function_name": "_ZNSt17_Function_handlerIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEPS7_E10_M_managerERSt9_Any_dataRKSA_St18_Manager_operation"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation": {
+        "bare_name": "_M_manager",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_manager",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE10_M_managerERSt9_Any_dataRKSB_St18_Manager_operation"
+    },
+    "_ZStplIcSt11char_traitsIcESaIcEENSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_OS8_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::operator+<char, std::char_traits<char>, std::allocator<char> >",
+        "function_name": "_ZStplIcSt11char_traitsIcESaIcEENSt7__cxx1112basic_stringIT_T0_T1_EEPKS5_OS8_"
+    },
+    "_ZNSt17_Function_handlerIF6ClassARK6ClassBEZ12analyzeTypesvE3$_1E10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation": {
+        "bare_name": "_M_manager",
+        "demangled_name": "std::_Function_handler<ClassA (ClassB const&), analyzeTypes()::$_1>::_M_manager",
+        "function_name": "_ZNSt17_Function_handlerIF6ClassARK6ClassBEZ12analyzeTypesvE3$_1E10_M_managerERSt9_Any_dataRKS7_St18_Manager_operation"
+    },
+    "frame_dummy": {
+        "bare_name": "frame_dummy",
+        "demangled_name": "frame_dummy",
+        "function_name": "frame_dummy"
+    },
+    "_ZN9StaticLib11joinStringsERKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS6_EERKS6_": {
+        "bare_name": "joinStrings",
+        "demangled_name": "StaticLib::joinStrings",
+        "function_name": "_ZN9StaticLib11joinStringsERKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS6_EERKS6_"
+    },
+    "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE7destroyIS5_EEvRS6_PT_": {
+        "bare_name": "allocator > >",
+        "demangled_name": "std::allocator_traits<std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::destroy<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >",
+        "function_name": "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE7destroyIS5_EEvRS6_PT_"
+    },
+    "_ZSt12__to_addressISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEPT_S7_": {
+        "bare_name": "_Lock_policy)2> >",
+        "demangled_name": "std::__to_address<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >",
+        "function_name": "_ZSt12__to_addressISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEPT_S7_"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv": {
+        "bare_name": "_M_destroy",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_destroy",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E9_M_createIS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE": {
+        "bare_name": "$_1>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_create<analyzeTypes()::$_1>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E9_M_createIS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE5_ImplC2ES1_": {
+        "bare_name": "_Impl",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_Impl::_Impl",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE5_ImplC2ES1_"
+    },
+    "_ZNKSt9_Any_data9_M_accessIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEERKT_v": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Any_data::_M_access<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>",
+        "function_name": "_ZNKSt9_Any_data9_M_accessIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEERKT_v"
+    },
+    "_ZSt10__invoke_rI6ClassARZ12analyzeTypesvE3$_1JRK6ClassBEENSt9enable_ifIX16is_invocable_r_vIT_T0_DpT1_EES7_E4typeEOS8_DpOS9_": {
+        "bare_name": "$_1&, ClassB const&>",
+        "demangled_name": "std::__invoke_r<ClassA, analyzeTypes()::$_1&, ClassB const&>",
+        "function_name": "_ZSt10__invoke_rI6ClassARZ12analyzeTypesvE3$_1JRK6ClassBEENSt9enable_ifIX16is_invocable_r_vIT_T0_DpT1_EES7_E4typeEOS8_DpOS9_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE21_M_not_empty_functionIS8_EEbPT_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_not_empty_function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE21_M_not_empty_functionIS8_EEbPT_"
+    },
+    "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEE10deallocateERS6_PS5_m": {
+        "bare_name": "deallocate",
+        "demangled_name": "std::allocator_traits<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::deallocate",
+        "function_name": "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEE10deallocateERS6_PS5_m"
+    },
+    "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEC2EOS8_": {
+        "bare_name": "function",
+        "demangled_name": "std::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>::function",
+        "function_name": "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEC2EOS8_"
+    },
+    "_ZSt8_DestroyI6ClassBEvPT_": {
+        "bare_name": "_Destroy",
+        "demangled_name": "std::_Destroy<ClassB>",
+        "function_name": "_ZSt8_DestroyI6ClassBEvPT_"
+    },
+    "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEC2IvEERKSaIT_E": {
+        "bare_name": "allocator",
+        "demangled_name": "std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::allocator<void>",
+        "function_name": "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEC2IvEERKSaIT_E"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EE31_M_enable_shared_from_this_withIS0_S0_EENSt9enable_ifIXntsr15__has_esft_baseIT0_EE5valueEvE4typeEPT_": {
+        "bare_name": "_M_enable_shared_from_this_with",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::_M_enable_shared_from_this_with<ClassA, ClassA>",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EE31_M_enable_shared_from_this_withIS0_S0_EENSt9enable_ifIXntsr15__has_esft_baseIT0_EE5valueEvE4typeEPT_"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEC2EOS3_": {
+        "bare_name": "__shared_ptr",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::__shared_ptr",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEC2EOS3_"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE10deallocateEPS5_m": {
+        "bare_name": "deallocate",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::deallocate",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE10deallocateEPS5_m"
+    },
+    "_ZNSt8functionIFvRK6ClassCEED2Ev": {
+        "bare_name": "~function",
+        "demangled_name": "std::function<void (ClassC const&)>::~function",
+        "function_name": "_ZNSt8functionIFvRK6ClassCEED2Ev"
+    },
+    "_ZNKSt14_Function_base8_M_emptyEv": {
+        "bare_name": "_M_empty",
+        "demangled_name": "std::_Function_base::_M_empty",
+        "function_name": "_ZNKSt14_Function_base8_M_emptyEv"
+    },
+    "_Z14simpleFunctionv": {
+        "bare_name": "simpleFunction",
+        "demangled_name": "simpleFunction",
+        "function_name": "_Z14simpleFunctionv"
+    },
+    "_ZNSt14_Function_baseD2Ev": {
+        "bare_name": "~_Function_base",
+        "demangled_name": "std::_Function_base::~_Function_base",
+        "function_name": "_ZNSt14_Function_baseD2Ev"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv": {
+        "bare_name": "_M_dispose",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_dispose",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv"
+    },
+    "_ZSt8_DestroyINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEvPT_": {
+        "bare_name": "allocator > >",
+        "demangled_name": "std::_Destroy<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >",
+        "function_name": "_ZSt8_DestroyINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEvPT_"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_Vector_implD2Ev": {
+        "bare_name": "~_Vector_impl",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_impl::~_Vector_impl",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_Vector_implD2Ev"
+    },
+    "_ZNKSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_1EERKT_v": {
+        "bare_name": "$_1>",
+        "demangled_name": "std::_Any_data::_M_access<analyzeTypes()::$_1>",
+        "function_name": "_ZNKSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_1EERKT_v"
+    },
+    "_ZSt19__relocate_object_aINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_SaIS5_EEvPT_PT0_RT1_": {
+        "bare_name": "allocator > > >",
+        "demangled_name": "std::__relocate_object_a<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+        "function_name": "_ZSt19__relocate_object_aINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_SaIS5_EEvPT_PT0_RT1_"
+    },
+    "_ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_": {
+        "bare_name": "distance",
+        "demangled_name": "std::distance<char const*>",
+        "function_name": "_ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_"
+    },
+    "_ZN6ClassBD2Ev": {
+        "bare_name": "~ClassB",
+        "demangled_name": "ClassB::~ClassB",
+        "function_name": "_ZN6ClassBD2Ev"
+    },
+    "_ZSt4swapISt9_Any_dataENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS4_ESt18is_move_assignableIS4_EEE5valueEvE4typeERS4_SD_": {
+        "bare_name": "_Any_data>",
+        "demangled_name": "std::swap<std::_Any_data>",
+        "function_name": "_ZSt4swapISt9_Any_dataENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS4_ESt18is_move_assignableIS4_EEE5valueEvE4typeERS4_SD_"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED2Ev": {
+        "bare_name": "~vector",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED2Ev"
+    },
+    "_ZNSt17_Function_handlerIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEPS7_E9_M_invokeERKSt9_Any_dataOS6_": {
+        "bare_name": "_M_invoke",
+        "demangled_name": "std::_Function_handler<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic), std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_invoke",
+        "function_name": "_ZNSt17_Function_handlerIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEPS7_E9_M_invokeERKSt9_Any_dataOS6_"
+    },
+    "_ZNSt10shared_ptrI6ClassAEaSEOS1_": {
+        "bare_name": "operator=",
+        "demangled_name": "std::shared_ptr<ClassA>::operator=",
+        "function_name": "_ZNSt10shared_ptrI6ClassAEaSEOS1_"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEEC2ERS6_PS5_": {
+        "bare_name": "__allocated_ptr",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::__allocated_ptr",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEEC2ERS6_PS5_"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEEaSEDn": {
+        "bare_name": "operator=",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::operator=",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEEaSEDn"
+    },
+    "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev": {
+        "bare_name": "~allocator",
+        "demangled_name": "std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::~allocator",
+        "function_name": "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev"
+    },
+    "_ZNSt14_Function_baseC2Ev": {
+        "bare_name": "_Function_base",
+        "demangled_name": "std::_Function_base::_Function_base",
+        "function_name": "_ZNSt14_Function_baseC2Ev"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEEaSEDn": {
+        "bare_name": "operator=",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::operator=",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEEaSEDn"
+    },
+    "_ZN11Node_cyclicC2EOS_": {
+        "bare_name": "Node_cyclic",
+        "demangled_name": "Node_cyclic::Node_cyclic",
+        "function_name": "_ZN11Node_cyclicC2EOS_"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EED0Ev": {
+        "bare_name": "~_Sp_counted_base",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::~_Sp_counted_base",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EED0Ev"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE15_M_init_functorIRS8_EEvRSt9_Any_dataOT_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_init_functor<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (&)(Node_cyclic)>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE15_M_init_functorIRS8_EEvRSt9_Any_dataOT_"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEED2Ev": {
+        "bare_name": "~__allocated_ptr",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::~__allocated_ptr",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEED2Ev"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_M_allocateEm": {
+        "bare_name": "_M_allocate",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_M_allocateEm"
+    },
+    "_ZN6ClassAC2Ev": {
+        "bare_name": "ClassA",
+        "demangled_name": "ClassA::ClassA",
+        "function_name": "_ZN6ClassAC2Ev"
+    },
+    "deregister_tm_clones": {
+        "bare_name": "deregister_tm_clones",
+        "demangled_name": "deregister_tm_clones",
+        "function_name": "deregister_tm_clones"
+    },
+    "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EEixEm": {
+        "bare_name": "operator",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::operator[]",
+        "function_name": "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EEixEm"
+    },
+    "_ZNSt8functionIFvRK6ClassCEEC2IZ12analyzeTypesvE3$_0vEEOT_": {
+        "bare_name": "$_0, void>",
+        "demangled_name": "std::function<void (ClassC const&)>::function<analyzeTypes()::$_0, void>",
+        "function_name": "_ZNSt8functionIFvRK6ClassCEEC2IZ12analyzeTypesvE3$_0vEEOT_"
+    },
+    "_ZNSt10shared_ptrI6ClassAEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_": {
+        "bare_name": "allocator>",
+        "demangled_name": "std::shared_ptr<ClassA>::shared_ptr<std::allocator<void>>",
+        "function_name": "_ZNSt10shared_ptrI6ClassAEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E14_M_get_pointerERKSt9_Any_data": {
+        "bare_name": "_M_get_pointer",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_get_pointer",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E14_M_get_pointerERKSt9_Any_data"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE9_M_createIRKS9_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_create<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (* const&)(Node_cyclic)>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE9_M_createIRKS9_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE"
+    },
+    "_ZSt11make_sharedI6ClassAJEESt10shared_ptrINSt9enable_ifIXntsr8is_arrayIT_EE5valueES3_E4typeEEDpOT0_": {
+        "bare_name": "make_shared",
+        "demangled_name": "std::make_shared<ClassA>",
+        "function_name": "_ZSt11make_sharedI6ClassAJEESt10shared_ptrINSt9enable_ifIXntsr8is_arrayIT_EE5valueES3_E4typeEEDpOT0_"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_Vector_implC2Ev": {
+        "bare_name": "_Vector_impl",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_impl::_Vector_impl",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_Vector_implC2Ev"
+    },
+    "_ZNKSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEE11_M_max_sizeEv": {
+        "bare_name": "_M_max_size",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::_M_max_size",
+        "function_name": "_ZNKSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEE11_M_max_sizeEv"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE9_M_createIRS8_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_create<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (&)(Node_cyclic)>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE9_M_createIRS8_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev": {
+        "bare_name": "~__new_allocator",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::~__new_allocator",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev"
+    },
+    "_Z24functionWithConditionalsi": {
+        "bare_name": "functionWithConditionals",
+        "demangled_name": "functionWithConditionals",
+        "function_name": "_Z24functionWithConditionalsi"
+    },
+    "__clang_call_terminate": {
+        "bare_name": "__clang_call_terminate",
+        "demangled_name": "__clang_call_terminate",
+        "function_name": "__clang_call_terminate"
+    },
+    "_ZNSt8__detail14__to_chars_lenIjEEjT_i": {
+        "bare_name": "__to_chars_len",
+        "demangled_name": "std::__detail::__to_chars_len<unsigned int>",
+        "function_name": "_ZNSt8__detail14__to_chars_lenIjEEjT_i"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation": {
+        "bare_name": "_M_manager",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_manager",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation"
+    },
+    "_ZNSt10shared_ptrI6ClassAED2Ev": {
+        "bare_name": "~shared_ptr",
+        "demangled_name": "std::shared_ptr<ClassA>::~shared_ptr",
+        "function_name": "_ZNSt10shared_ptrI6ClassAED2Ev"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEaSEOS3_": {
+        "bare_name": "operator=",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::operator=",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEaSEOS3_"
+    },
+    "_ZSt13__invoke_implINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERPFS5_11Node_cyclicEJS6_EET_St14__invoke_otherOT0_DpOT1_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::__invoke_impl<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*&)(Node_cyclic), Node_cyclic>",
+        "function_name": "_ZSt13__invoke_implINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERPFS5_11Node_cyclicEJS6_EET_St14__invoke_otherOT0_DpOT1_"
+    },
+    "_Z14cyclicFunctionB5cxx1111Node_cyclic": {
+        "bare_name": "cyclicFunction",
+        "demangled_name": "cyclicFunction[abi:cxx11]",
+        "function_name": "_Z14cyclicFunctionB5cxx1111Node_cyclic"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info": {
+        "bare_name": "_M_get_deleter",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_get_deleter",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info"
+    },
+    "_ZNSt8functionIF6ClassARK6ClassBEE4swapERS5_": {
+        "bare_name": "swap",
+        "demangled_name": "std::function<ClassA (ClassB const&)>::swap",
+        "function_name": "_ZNSt8functionIF6ClassARK6ClassBEE4swapERS5_"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EED0Ev": {
+        "bare_name": "~_Sp_counted_ptr_inplace",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_ptr_inplace",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EED0Ev"
+    },
+    "_GLOBAL__sub_I_Cyclic.cpp": {
+        "bare_name": "_GLOBAL__sub_I_Cyclic.cpp",
+        "demangled_name": "_GLOBAL__sub_I_Cyclic.cpp",
+        "function_name": "_GLOBAL__sub_I_Cyclic.cpp"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EED0Ev": {
+        "bare_name": "~_Sp_counted_ptr_inplace",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_ptr_inplace",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EED0Ev"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev": {
+        "bare_name": "~__new_allocator",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::~__new_allocator",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE24_M_release_last_use_coldEv": {
+        "bare_name": "_M_release_last_use_cold",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release_last_use_cold",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE24_M_release_last_use_coldEv"
+    },
+    "_init": {
+        "bare_name": "_init",
+        "demangled_name": "_init",
+        "function_name": "_init"
+    },
+    "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >",
+        "function_name": "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE13_M_deallocateEPS5_m": {
+        "bare_name": "_M_deallocate",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_deallocate",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE13_M_deallocateEPS5_m"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E15_M_init_functorIS1_EEvRSt9_Any_dataOT_": {
+        "bare_name": "$_1>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_init_functor<analyzeTypes()::$_1>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E15_M_init_functorIS1_EEvRSt9_Any_dataOT_"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEED2Ev": {
+        "bare_name": "~__allocated_ptr",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::~__allocated_ptr",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEED2Ev"
+    },
+    "_ZSt8_DestroyIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_EvT_S7_RSaIT0_E": {
+        "bare_name": "allocator > >",
+        "demangled_name": "std::_Destroy<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >",
+        "function_name": "_ZSt8_DestroyIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES5_EvT_S7_RSaIT0_E"
+    },
+    "_ZNSt8functionIFvRK6ClassCEEC2Ev": {
+        "bare_name": "function",
+        "demangled_name": "std::function<void (ClassC const&)>::function",
+        "function_name": "_ZNSt8functionIFvRK6ClassCEEC2Ev"
+    },
+    "_ZNKSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE8max_sizeEv": {
+        "bare_name": "max_size",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::max_size",
+        "function_name": "_ZNKSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE8max_sizeEv"
+    },
+    "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC2I6ClassASaIvEJEEERPT_St20_Sp_alloc_shared_tagIT0_EDpOT1_": {
+        "bare_name": "allocator>",
+        "demangled_name": "std::__shared_count<(__gnu_cxx::_Lock_policy)2>::__shared_count<ClassA, std::allocator<void>>",
+        "function_name": "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC2I6ClassASaIvEJEEERPT_St20_Sp_alloc_shared_tagIT0_EDpOT1_"
+    },
+    "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE10deallocateERS6_PS5_m": {
+        "bare_name": "deallocate",
+        "demangled_name": "std::allocator_traits<std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::deallocate",
+        "function_name": "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE10deallocateERS6_PS5_m"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE14_M_get_pointerERKSt9_Any_data": {
+        "bare_name": "_M_get_pointer",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_get_pointer",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE14_M_get_pointerERKSt9_Any_data"
+    },
+    "_ZNSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_1EERT_v": {
+        "bare_name": "$_1>",
+        "demangled_name": "std::_Any_data::_M_access<analyzeTypes()::$_1>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_1EERT_v"
+    },
+    "_ZNSt17_Function_handlerIFvRK6ClassCEZ12analyzeTypesvE3$_0E10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation": {
+        "bare_name": "_M_manager",
+        "demangled_name": "std::_Function_handler<void (ClassC const&), analyzeTypes()::$_0>::_M_manager",
+        "function_name": "_ZNSt17_Function_handlerIFvRK6ClassCEZ12analyzeTypesvE3$_0E10_M_managerERSt9_Any_dataRKS6_St18_Manager_operation"
+    },
+    "_ZSt3minImERKT_S2_S2_": {
+        "bare_name": "min",
+        "demangled_name": "std::min<unsigned long>",
+        "function_name": "_ZSt3minImERKT_S2_S2_"
+    },
+    "_ZSt12__to_addressISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEPT_S7_": {
+        "bare_name": "_Lock_policy)2> >",
+        "demangled_name": "std::__to_address<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >",
+        "function_name": "_ZSt12__to_addressISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEPT_S7_"
+    },
+    "_ZNSt8functionIF6ClassARK6ClassBEEaSIZ12analyzeTypesvE3$_1EENSt9enable_ifIXsrNS5_9_CallableIT_NS8_IXntsr7is_sameINSt9remove_cvINSt16remove_referenceISA_E4typeEE4typeES5_EE5valueESt5decayISA_EE4type4typeESt15__invoke_resultIRSL_JS3_EEEE5valueERS5_E4typeEOSA_": {
+        "bare_name": "$_1>",
+        "demangled_name": "std::function<ClassA (ClassB const&)>::operator=<analyzeTypes()::$_1>",
+        "function_name": "_ZNSt8functionIF6ClassARK6ClassBEEaSIZ12analyzeTypesvE3$_1EENSt9enable_ifIXsrNS5_9_CallableIT_NS8_IXntsr7is_sameINSt9remove_cvINSt16remove_referenceISA_E4typeEE4typeES5_EE5valueESt5decayISA_EE4type4typeESt15__invoke_resultIRSL_JS3_EEEE5valueERS5_E4typeEOSA_"
+    },
+    "_ZSt4swapIPFvRKSt9_Any_dataRK6ClassCEENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleISB_ESt18is_move_assignableISB_EEE5valueEvE4typeERSB_SK_": {
+        "bare_name": "_Any_data const&, ClassC const&)>",
+        "demangled_name": "std::swap<void (*)(std::_Any_data const&, ClassC const&)>",
+        "function_name": "_ZSt4swapIPFvRKSt9_Any_dataRK6ClassCEENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleISB_ESt18is_move_assignableISB_EEE5valueEvE4typeERSB_SK_"
+    },
+    "_Z15calculateSquarei": {
+        "bare_name": "calculateSquare",
+        "demangled_name": "calculateSquare",
+        "function_name": "_Z15calculateSquarei"
+    },
+    "_ZNSt8functionIFvRK6ClassCEE4swapERS4_": {
+        "bare_name": "swap",
+        "demangled_name": "std::function<void (ClassC const&)>::swap",
+        "function_name": "_ZNSt8functionIFvRK6ClassCEE4swapERS4_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E21_M_not_empty_functionIS1_EEbRKT_": {
+        "bare_name": "$_0>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_not_empty_function<analyzeTypes()::$_0>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E21_M_not_empty_functionIS1_EEbRKT_"
+    },
+    "_ZNKSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE11_M_max_sizeEv": {
+        "bare_name": "_M_max_size",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::_M_max_size",
+        "function_name": "_ZNKSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE11_M_max_sizeEv"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE5beginEv": {
+        "bare_name": "begin",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::begin",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE5beginEv"
+    },
+    "_ZN6ClassCD2Ev": {
+        "bare_name": "~ClassC",
+        "demangled_name": "ClassC::~ClassC",
+        "function_name": "_ZN6ClassCD2Ev"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv": {
+        "bare_name": "_M_destroy",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_destroy",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv"
+    },
+    "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEmcRKS3_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >",
+        "function_name": "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEmcRKS3_"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEE10deallocateEPS5_m": {
+        "bare_name": "deallocate",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::deallocate",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEE10deallocateEPS5_m"
+    },
+    "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE9constructIS5_JS5_EEEvRS6_PT_DpOT0_": {
+        "bare_name": "allocator > >",
+        "demangled_name": "std::allocator_traits<std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::construct<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >",
+        "function_name": "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE9constructIS5_JS5_EEEvRS6_PT_DpOT0_"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE9constructIS5_JRKS5_EEEvPT_DpOT0_": {
+        "bare_name": "allocator > const&>",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::construct<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&>",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE9constructIS5_JRKS5_EEEvPT_DpOT0_"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEC2Ev": {
+        "bare_name": "__new_allocator",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::__new_allocator",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEC2Ev"
+    },
+    "_ZNSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_0EERT_v": {
+        "bare_name": "$_0>",
+        "demangled_name": "std::_Any_data::_M_access<analyzeTypes()::$_0>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_0EERT_v"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEC2IJEEES1_DpOT_": {
+        "bare_name": "_Sp_counted_ptr_inplace",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_Sp_counted_ptr_inplace<>",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEC2IJEEES1_DpOT_"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_S_relocateEPS5_S8_S8_RS6_": {
+        "bare_name": "_S_relocate",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_S_relocate",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_S_relocateEPS5_S8_S8_RS6_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE15_M_init_functorIRKS9_EEvRSt9_Any_dataOT_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_init_functor<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (* const&)(Node_cyclic)>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE15_M_init_functorIRKS9_EEvRSt9_Any_dataOT_"
+    },
+    "_ZSt13__invoke_implIvRZ12analyzeTypesvE3$_0JRK6ClassCEET_St14__invoke_otherOT0_DpOT1_": {
+        "bare_name": "$_0&, ClassC const&>",
+        "demangled_name": "std::__invoke_impl<void, analyzeTypes()::$_0&, ClassC const&>",
+        "function_name": "_ZSt13__invoke_implIvRZ12analyzeTypesvE3$_0JRK6ClassCEET_St14__invoke_otherOT0_DpOT1_"
+    },
+    "_ZNSt10shared_ptrI6ClassBED2Ev": {
+        "bare_name": "~shared_ptr",
+        "demangled_name": "std::shared_ptr<ClassB>::~shared_ptr",
+        "function_name": "_ZNSt10shared_ptrI6ClassBED2Ev"
+    },
+    "_ZN9__gnu_cxx16__aligned_bufferI6ClassBE7_M_addrEv": {
+        "bare_name": "_M_addr",
+        "demangled_name": "__gnu_cxx::__aligned_buffer<ClassB>::_M_addr",
+        "function_name": "_ZN9__gnu_cxx16__aligned_bufferI6ClassBE7_M_addrEv"
+    },
+    "_ZNSt12_Destroy_auxILb0EE9__destroyIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEvT_S9_": {
+        "bare_name": "allocator >*>",
+        "demangled_name": "std::_Destroy_aux<false>::__destroy<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*>",
+        "function_name": "_ZNSt12_Destroy_auxILb0EE9__destroyIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEEvT_S9_"
+    },
+    "_ZSt13__invoke_implI6ClassARZ12analyzeTypesvE3$_1JRK6ClassBEET_St14__invoke_otherOT0_DpOT1_": {
+        "bare_name": "$_1&, ClassB const&>",
+        "demangled_name": "std::__invoke_impl<ClassA, analyzeTypes()::$_1&, ClassB const&>",
+        "function_name": "_ZSt13__invoke_implI6ClassARZ12analyzeTypesvE3$_1JRK6ClassBEET_St14__invoke_otherOT0_DpOT1_"
+    },
+    "_ZN11HeaderClassC2Ei": {
+        "bare_name": "HeaderClass",
+        "demangled_name": "HeaderClass::HeaderClass",
+        "function_name": "_ZN11HeaderClassC2Ei"
+    },
+    "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC2Ev": {
+        "bare_name": "__shared_count",
+        "demangled_name": "std::__shared_count<(__gnu_cxx::_Lock_policy)2>::__shared_count",
+        "function_name": "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC2Ev"
+    },
+    "_ZZ12analyzeTypesvENK3$_1clERK6ClassB": {
+        "bare_name": "operator",
+        "demangled_name": "analyzeTypes()::$_1::operator()",
+        "function_name": "_ZZ12analyzeTypesvENK3$_1clERK6ClassB"
+    },
+    "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE8max_sizeERKS6_": {
+        "bare_name": "max_size",
+        "demangled_name": "std::allocator_traits<std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::max_size",
+        "function_name": "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE8max_sizeERKS6_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E15_M_init_functorIS1_EEvRSt9_Any_dataOT_": {
+        "bare_name": "$_0>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_init_functor<analyzeTypes()::$_0>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E15_M_init_functorIS1_EEvRSt9_Any_dataOT_"
+    },
+    "_ZN6ClassBC2Ev": {
+        "bare_name": "ClassB",
+        "demangled_name": "ClassB::ClassB",
+        "function_name": "_ZN6ClassBC2Ev"
+    },
+    "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev": {
+        "bare_name": "~_Alloc_hider",
+        "demangled_name": "std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::~_Alloc_hider",
+        "function_name": "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev"
+    },
+    "_Z21recursiveTypeFunctionv": {
+        "bare_name": "recursiveTypeFunction",
+        "demangled_name": "recursiveTypeFunction",
+        "function_name": "_Z21recursiveTypeFunctionv"
+    },
+    "_ZSt3maxImERKT_S2_S2_": {
+        "bare_name": "max",
+        "demangled_name": "std::max<unsigned long>",
+        "function_name": "_ZSt3maxImERKT_S2_S2_"
+    },
+    "_Z8multiplyIdET_S0_S0_": {
+        "bare_name": "multiply",
+        "demangled_name": "multiply<double>",
+        "function_name": "_Z8multiplyIdET_S0_S0_"
+    },
+    "_ZNSt8functionIF6ClassARK6ClassBEEC2Ev": {
+        "bare_name": "function",
+        "demangled_name": "std::function<ClassA (ClassB const&)>::function",
+        "function_name": "_ZNSt8functionIF6ClassARK6ClassBEEC2Ev"
+    },
+    "_ZSt11make_sharedI6ClassBJEESt10shared_ptrINSt9enable_ifIXntsr8is_arrayIT_EE5valueES3_E4typeEEDpOT0_": {
+        "bare_name": "make_shared",
+        "demangled_name": "std::make_shared<ClassB>",
+        "function_name": "_ZSt11make_sharedI6ClassBJEESt10shared_ptrINSt9enable_ifIXntsr8is_arrayIT_EE5valueES3_E4typeEEDpOT0_"
+    },
+    "_ZNSt10shared_ptrI6ClassBEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_": {
+        "bare_name": "allocator>",
+        "demangled_name": "std::shared_ptr<ClassB>::shared_ptr<std::allocator<void>>",
+        "function_name": "_ZNSt10shared_ptrI6ClassBEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_"
+    },
+    "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev": {
+        "bare_name": "~allocator",
+        "demangled_name": "std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::~allocator",
+        "function_name": "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev"
+    },
+    "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEC2IvEERKSaIT_E": {
+        "bare_name": "allocator",
+        "demangled_name": "std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::allocator<void>",
+        "function_name": "_ZNSaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEC2IvEERKSaIT_E"
+    },
+    "_ZNKSt9type_infoeqERKS_": {
+        "bare_name": "operator==",
+        "demangled_name": "std::type_info::operator==",
+        "function_name": "_ZNKSt9type_infoeqERKS_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E10_M_destroyERSt9_Any_dataSt17integral_constantIbLb1EE": {
+        "bare_name": "_M_destroy",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_destroy",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E10_M_destroyERSt9_Any_dataSt17integral_constantIbLb1EE"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_S_max_sizeERKS6_": {
+        "bare_name": "_S_max_size",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_S_max_size",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE11_S_max_sizeERKS6_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation": {
+        "bare_name": "_M_manager",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_manager",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv": {
+        "bare_name": "_M_release",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E10_M_destroyERSt9_Any_dataSt17integral_constantIbLb1EE": {
+        "bare_name": "_M_destroy",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_destroy",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E10_M_destroyERSt9_Any_dataSt17integral_constantIbLb1EE"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE6_M_ptrEv": {
+        "bare_name": "_M_ptr",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_ptr",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE6_M_ptrEv"
+    },
+    "_ZNSt9_Any_data9_M_accessIPPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEERT_v": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Any_data::_M_access<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (**)(Node_cyclic)>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIPPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEERT_v"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EED2Ev": {
+        "bare_name": "~__shared_ptr",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EED2Ev"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED2Ev": {
+        "bare_name": "~_Vector_base",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EED2Ev"
+    },
+    "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEE8allocateERS6_m": {
+        "bare_name": "allocate",
+        "demangled_name": "std::allocator_traits<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::allocate",
+        "function_name": "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEE8allocateERS6_m"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEC2Ev": {
+        "bare_name": "__shared_ptr",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::__shared_ptr",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEC2Ev"
+    },
+    "_ZNK11HeaderClass8getValueEv": {
+        "bare_name": "getValue",
+        "demangled_name": "HeaderClass::getValue",
+        "function_name": "_ZNK11HeaderClass8getValueEv"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE3endEv": {
+        "bare_name": "end",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::end",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE3endEv"
+    },
+    "_ZNKSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE19_M_get_Tp_allocatorEv": {
+        "bare_name": "_M_get_Tp_allocator",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_get_Tp_allocator",
+        "function_name": "_ZNKSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE19_M_get_Tp_allocatorEv"
+    },
+    "_ZNSt9_Any_data9_M_accessIPZ12analyzeTypesvE3$_0EERT_v": {
+        "bare_name": "$_0*>",
+        "demangled_name": "std::_Any_data::_M_access<analyzeTypes()::$_0*>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIPZ12analyzeTypesvE3$_0EERT_v"
+    },
+    "_Z18functionWithParamsid": {
+        "bare_name": "functionWithParams",
+        "demangled_name": "functionWithParams",
+        "function_name": "_Z18functionWithParamsid"
+    },
+    "_ZStorSt13_Ios_OpenmodeS_": {
+        "bare_name": "operator|",
+        "demangled_name": "std::operator|",
+        "function_name": "_ZStorSt13_Ios_OpenmodeS_"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE17_M_realloc_insertIJRKS5_EEEvN9__gnu_cxx17__normal_iteratorIPS5_S7_EEDpOT_": {
+        "bare_name": "allocator > const&>",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_realloc_insert<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&>",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE17_M_realloc_insertIJRKS5_EEEvN9__gnu_cxx17__normal_iteratorIPS5_S7_EEDpOT_"
+    },
+    "_ZN9__gnu_cxx16__aligned_bufferI6ClassAE6_M_ptrEv": {
+        "bare_name": "_M_ptr",
+        "demangled_name": "__gnu_cxx::__aligned_buffer<ClassA>::_M_ptr",
+        "function_name": "_ZN9__gnu_cxx16__aligned_bufferI6ClassAE6_M_ptrEv"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEC2IJEEES1_DpOT_": {
+        "bare_name": "_Sp_counted_ptr_inplace",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_Sp_counted_ptr_inplace<>",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEC2IJEEES1_DpOT_"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEaSEOS3_": {
+        "bare_name": "operator=",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::operator=",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEaSEOS3_"
+    },
+    "_ZSt18__allocate_guardedISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEESt15__allocated_ptrIT_ERS8_": {
+        "bare_name": "_Lock_policy)2> > >",
+        "demangled_name": "std::__allocate_guarded<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >",
+        "function_name": "_ZSt18__allocate_guardedISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEESt15__allocated_ptrIT_ERS8_"
+    },
+    "_ZNSt16allocator_traitsISaIvEE7destroyI6ClassAEEvRS0_PT_": {
+        "bare_name": "destroy",
+        "demangled_name": "std::allocator_traits<std::allocator<void> >::destroy<ClassA>",
+        "function_name": "_ZNSt16allocator_traitsISaIvEE7destroyI6ClassAEEvRS0_PT_"
+    },
+    "_ZNSt14_Sp_ebo_helperILi0ESaIvELb1EEC2ERKS0_": {
+        "bare_name": "_Sp_ebo_helper",
+        "demangled_name": "std::_Sp_ebo_helper<0, std::allocator<void>, true>::_Sp_ebo_helper",
+        "function_name": "_ZNSt14_Sp_ebo_helperILi0ESaIvELb1EEC2ERKS0_"
+    },
+    "_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardD2Ev": {
+        "bare_name": "~_Guard",
+        "demangled_name": "std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)::_Guard::~_Guard",
+        "function_name": "_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardD2Ev"
+    },
+    "_ZNSaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2Ev": {
+        "bare_name": "allocator",
+        "demangled_name": "std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocator",
+        "function_name": "_ZNSaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2Ev"
+    },
+    "_ZNSt19_Sp_make_shared_tag5_S_tiEv": {
+        "bare_name": "_S_ti",
+        "demangled_name": "std::_Sp_make_shared_tag::_S_ti",
+        "function_name": "_ZNSt19_Sp_make_shared_tag5_S_tiEv"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev": {
+        "bare_name": "~__new_allocator",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::~__new_allocator",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEED2Ev"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE17_Vector_impl_dataC2Ev": {
+        "bare_name": "_Vector_impl_data",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_impl_data::_Vector_impl_data",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE17_Vector_impl_dataC2Ev"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEE3getEv": {
+        "bare_name": "get",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::get",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEE3getEv"
+    },
+    "_ZNSt8functionIF6ClassARK6ClassBEEC2IZ12analyzeTypesvE3$_1vEEOT_": {
+        "bare_name": "$_1, void>",
+        "demangled_name": "std::function<ClassA (ClassB const&)>::function<analyzeTypes()::$_1, void>",
+        "function_name": "_ZNSt8functionIF6ClassARK6ClassBEEC2IZ12analyzeTypesvE3$_1vEEOT_"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EE4swapERS3_": {
+        "bare_name": "swap",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::swap",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EE4swapERS3_"
+    },
+    "_GLOBAL__sub_I_test_program.cpp": {
+        "bare_name": "_GLOBAL__sub_I_test_program.cpp",
+        "demangled_name": "_GLOBAL__sub_I_test_program.cpp",
+        "function_name": "_GLOBAL__sub_I_test_program.cpp"
+    },
+    "_ZNKSt9_Any_data9_M_accessEv": {
+        "bare_name": "_M_access",
+        "demangled_name": "std::_Any_data::_M_access",
+        "function_name": "_ZNKSt9_Any_data9_M_accessEv"
+    },
+    "_ZN11Node_cyclicC2ERKS_": {
+        "bare_name": "Node_cyclic",
+        "demangled_name": "Node_cyclic::Node_cyclic",
+        "function_name": "_ZN11Node_cyclicC2ERKS_"
+    },
+    "_ZSt4swapIP6ClassAENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SE_": {
+        "bare_name": "swap",
+        "demangled_name": "std::swap<ClassA*>",
+        "function_name": "_ZSt4swapIP6ClassAENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SE_"
+    },
+    "_ZN11HeaderClass8setValueEi": {
+        "bare_name": "setValue",
+        "demangled_name": "HeaderClass::setValue",
+        "function_name": "_ZN11HeaderClass8setValueEi"
+    },
+    "_ZN9__gnu_cxx16__aligned_bufferI6ClassBE6_M_ptrEv": {
+        "bare_name": "_M_ptr",
+        "demangled_name": "__gnu_cxx::__aligned_buffer<ClassB>::_M_ptr",
+        "function_name": "_ZN9__gnu_cxx16__aligned_bufferI6ClassBE6_M_ptrEv"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_": {
+        "bare_name": "allocator>",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::__shared_ptr<std::allocator<void>>",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_"
+    },
+    "_ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_": {
+        "bare_name": "__iterator_category",
+        "demangled_name": "std::__iterator_category<char const*>",
+        "function_name": "_ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_"
+    },
+    "_Z12analyzeTypesv": {
+        "bare_name": "analyzeTypes",
+        "demangled_name": "analyzeTypes",
+        "function_name": "_Z12analyzeTypesv"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E9_M_createIRKS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE": {
+        "bare_name": "$_1 const&>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_create<analyzeTypes()::$_1 const&>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E9_M_createIRKS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE"
+    },
+    "_ZNSt16allocator_traitsISaIvEE7destroyI6ClassBEEvRS0_PT_": {
+        "bare_name": "destroy",
+        "demangled_name": "std::allocator_traits<std::allocator<void> >::destroy<ClassB>",
+        "function_name": "_ZNSt16allocator_traitsISaIvEE7destroyI6ClassBEEvRS0_PT_"
+    },
+    "_ZNSt8functionIF6ClassARK6ClassBEED2Ev": {
+        "bare_name": "~function",
+        "demangled_name": "std::function<ClassA (ClassB const&)>::~function",
+        "function_name": "_ZNSt8functionIF6ClassARK6ClassBEED2Ev"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_": {
+        "bare_name": "allocator>",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::__shared_ptr<std::allocator<void>>",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEC2ISaIvEJEEESt20_Sp_alloc_shared_tagIT_EDpOT0_"
+    },
+    "_ZSt18__allocate_guardedISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEESt15__allocated_ptrIT_ERS8_": {
+        "bare_name": "_Lock_policy)2> > >",
+        "demangled_name": "std::__allocate_guarded<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >",
+        "function_name": "_ZSt18__allocate_guardedISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEESt15__allocated_ptrIT_ERS8_"
+    },
+    "_ZNSt8__detail18__to_chars_10_implIjEEvPcjT_": {
+        "bare_name": "__to_chars_10_impl",
+        "demangled_name": "std::__detail::__to_chars_10_impl<unsigned int>",
+        "function_name": "_ZNSt8__detail18__to_chars_10_implIjEEvPcjT_"
+    },
+    "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEED2Ev": {
+        "bare_name": "~function",
+        "demangled_name": "std::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>::~function",
+        "function_name": "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEED2Ev"
+    },
+    "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEE10deallocateERS6_PS5_m": {
+        "bare_name": "deallocate",
+        "demangled_name": "std::allocator_traits<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::deallocate",
+        "function_name": "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEE10deallocateERS6_PS5_m"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EE31_M_enable_shared_from_this_withIS0_S0_EENSt9enable_ifIXntsr15__has_esft_baseIT0_EE5valueEvE4typeEPT_": {
+        "bare_name": "_M_enable_shared_from_this_with",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::_M_enable_shared_from_this_with<ClassB, ClassB>",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EE31_M_enable_shared_from_this_withIS0_S0_EENSt9enable_ifIXntsr15__has_esft_baseIT0_EE5valueEvE4typeEPT_"
+    },
+    "_ZSt4swapIPF6ClassARKSt9_Any_dataRK6ClassBEENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleISC_ESt18is_move_assignableISC_EEE5valueEvE4typeERSC_SL_": {
+        "bare_name": "_Any_data const&, ClassB const&)>",
+        "demangled_name": "std::swap<ClassA (*)(std::_Any_data const&, ClassB const&)>",
+        "function_name": "_ZSt4swapIPF6ClassARKSt9_Any_dataRK6ClassBEENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleISC_ESt18is_move_assignableISC_EEE5valueEvE4typeERSC_SL_"
+    },
+    "__cxx_global_var_init": {
+        "bare_name": "__cxx_global_var_init",
+        "demangled_name": "__cxx_global_var_init",
+        "function_name": "__cxx_global_var_init"
+    },
+    "_ZN6ClassCC2Ev": {
+        "bare_name": "ClassC",
+        "demangled_name": "ClassC::ClassC",
+        "function_name": "_ZN6ClassCC2Ev"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE19_M_get_Tp_allocatorEv": {
+        "bare_name": "_M_get_Tp_allocator",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_get_Tp_allocator",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE19_M_get_Tp_allocatorEv"
+    },
+    "_ZSt8_DestroyIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEvT_S7_": {
+        "bare_name": "allocator >*>",
+        "demangled_name": "std::_Destroy<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*>",
+        "function_name": "_ZSt8_DestroyIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEvT_S7_"
+    },
+    "_ZNSt9_Any_data9_M_accessIPZ12analyzeTypesvE3$_1EERT_v": {
+        "bare_name": "$_1*>",
+        "demangled_name": "std::_Any_data::_M_access<analyzeTypes()::$_1*>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIPZ12analyzeTypesvE3$_1EERT_v"
+    },
+    "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EEC2Ev": {
+        "bare_name": "_Vector_base",
+        "demangled_name": "std::_Vector_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base",
+        "function_name": "_ZNSt12_Vector_baseINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EEC2Ev"
+    },
+    "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE9constructIS5_JRKS5_EEEvRS6_PT_DpOT0_": {
+        "bare_name": "allocator > const&>",
+        "demangled_name": "std::allocator_traits<std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::construct<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&>",
+        "function_name": "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE9constructIS5_JRKS5_EEEvRS6_PT_DpOT0_"
+    },
+    "_ZSt10_ConstructI6ClassBJEEvPT_DpOT0_": {
+        "bare_name": "_Construct",
+        "demangled_name": "std::_Construct<ClassB>",
+        "function_name": "_ZSt10_ConstructI6ClassBJEEvPT_DpOT0_"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE19_M_release_last_useEv": {
+        "bare_name": "_M_release_last_use",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release_last_use",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE19_M_release_last_useEv"
+    },
+    "_ZNSt10shared_ptrI6ClassBEC2Ev": {
+        "bare_name": "shared_ptr",
+        "demangled_name": "std::shared_ptr<ClassB>::shared_ptr",
+        "function_name": "_ZNSt10shared_ptrI6ClassBEC2Ev"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EEC2Ev": {
+        "bare_name": "_Sp_counted_base",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_Sp_counted_base",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EEC2Ev"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEC2Ev": {
+        "bare_name": "__new_allocator",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::__new_allocator",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEC2Ev"
+    },
+    "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EED2Ev": {
+        "bare_name": "~__shared_count",
+        "demangled_name": "std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count",
+        "function_name": "_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EED2Ev"
+    },
+    "_ZSt10__invoke_rINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERPFS5_11Node_cyclicEJS6_EENSt9enable_ifIX16is_invocable_r_vIT_T0_DpT1_EESB_E4typeEOSC_DpOSD_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::__invoke_r<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*&)(Node_cyclic), Node_cyclic>",
+        "function_name": "_ZSt10__invoke_rINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERPFS5_11Node_cyclicEJS6_EENSt9enable_ifIX16is_invocable_r_vIT_T0_DpT1_EESB_E4typeEOSC_DpOSD_"
+    },
+    "_ZN11Node_cyclicC2EiSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES_EE": {
+        "bare_name": "Node_cyclic",
+        "demangled_name": "Node_cyclic::Node_cyclic",
+        "function_name": "_ZN11Node_cyclicC2EiSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES_EE"
+    },
+    "_ZNKSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_0EERKT_v": {
+        "bare_name": "$_0>",
+        "demangled_name": "std::_Any_data::_M_access<analyzeTypes()::$_0>",
+        "function_name": "_ZNKSt9_Any_data9_M_accessIZ12analyzeTypesvE3$_0EERKT_v"
+    },
+    "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEE8allocateERS6_m": {
+        "bare_name": "allocate",
+        "demangled_name": "std::allocator_traits<std::allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::allocate",
+        "function_name": "_ZNSt16allocator_traitsISaISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEEE8allocateERS6_m"
+    },
+    "_ZNSt9_Any_data9_M_accessEv": {
+        "bare_name": "_M_access",
+        "demangled_name": "std::_Any_data::_M_access",
+        "function_name": "_ZNSt9_Any_data9_M_accessEv"
+    },
+    "_ZNSt9_Any_data9_M_accessIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEERT_v": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::_Any_data::_M_access<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEERT_v"
+    },
+    "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE4sizeEv": {
+        "bare_name": "size",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::size",
+        "function_name": "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE4sizeEv"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv": {
+        "bare_name": "_M_destroy",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_destroy",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv"
+    },
+    "_ZNSaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev": {
+        "bare_name": "~allocator",
+        "demangled_name": "std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::~allocator",
+        "function_name": "_ZNSaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEED2Ev"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E9_M_createIRKS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE": {
+        "bare_name": "$_0 const&>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_create<analyzeTypes()::$_0 const&>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E9_M_createIRKS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE"
+    },
+    "_ZN9StaticLib9factorialEi": {
+        "bare_name": "factorial",
+        "demangled_name": "StaticLib::factorial",
+        "function_name": "_ZN9StaticLib9factorialEi"
+    },
+    "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEC2EOS3_": {
+        "bare_name": "__shared_ptr",
+        "demangled_name": "std::__shared_ptr<ClassB, (__gnu_cxx::_Lock_policy)2>::__shared_ptr",
+        "function_name": "_ZNSt12__shared_ptrI6ClassBLN9__gnu_cxx12_Lock_policyE2EEC2EOS3_"
+    },
+    "_ZNKSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEcvbEv": {
+        "bare_name": "operator bool",
+        "demangled_name": "std::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>::operator bool",
+        "function_name": "_ZNKSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEcvbEv"
+    },
+    "_ZNSt16allocator_traitsISaIvEE9constructI6ClassAJEEEvRS0_PT_DpOT0_": {
+        "bare_name": "construct",
+        "demangled_name": "std::allocator_traits<std::allocator<void> >::construct<ClassA>",
+        "function_name": "_ZNSt16allocator_traitsISaIvEE9constructI6ClassAJEEEvRS0_PT_DpOT0_"
+    },
+    "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEC2IRS7_vEEOT_": {
+        "bare_name": "allocator >",
+        "demangled_name": "std::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (&)(Node_cyclic), void>",
+        "function_name": "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEC2IRS7_vEEOT_"
+    },
+    "_ZSt12__niter_baseIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEET_S7_": {
+        "bare_name": "allocator >*>",
+        "demangled_name": "std::__niter_base<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*>",
+        "function_name": "_ZSt12__niter_baseIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEET_S7_"
+    },
+    "_ZSt12__relocate_aIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES6_SaIS5_EET0_T_S9_S8_RT1_": {
+        "bare_name": "allocator > > >",
+        "demangled_name": "std::__relocate_a<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >",
+        "function_name": "_ZSt12__relocate_aIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES6_SaIS5_EET0_T_S9_S8_RT1_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E15_M_init_functorIRKS1_EEvRSt9_Any_dataOT_": {
+        "bare_name": "$_0 const&>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_init_functor<analyzeTypes()::$_0 const&>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E15_M_init_functorIRKS1_EEvRSt9_Any_dataOT_"
+    },
+    "_ZNKSt9type_info4nameEv": {
+        "bare_name": "name",
+        "demangled_name": "std::type_info::name",
+        "function_name": "_ZNKSt9type_info4nameEv"
+    },
+    "_ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag": {
+        "bare_name": "__distance",
+        "demangled_name": "std::__distance<char const*>",
+        "function_name": "_ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag"
+    },
+    "main": {
+        "bare_name": "main",
+        "demangled_name": "main",
+        "function_name": "main"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E14_M_get_pointerERKSt9_Any_data": {
+        "bare_name": "_M_get_pointer",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_get_pointer",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E14_M_get_pointerERKSt9_Any_data"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EE4swapERS3_": {
+        "bare_name": "swap",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::swap",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EE4swapERS3_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E21_M_not_empty_functionIS1_EEbRKT_": {
+        "bare_name": "$_1>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_not_empty_function<analyzeTypes()::$_1>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E21_M_not_empty_functionIS1_EEbRKT_"
+    },
+    "_ZSt4swapIP6ClassBENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SE_": {
+        "bare_name": "swap",
+        "demangled_name": "std::swap<ClassB*>",
+        "function_name": "_ZSt4swapIP6ClassBENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleIS5_ESt18is_move_assignableIS5_EEE5valueEvE4typeERS5_SE_"
+    },
+    "_ZNSt17_Function_handlerIF6ClassARK6ClassBEZ12analyzeTypesvE3$_1E9_M_invokeERKSt9_Any_dataS3_": {
+        "bare_name": "_M_invoke",
+        "demangled_name": "std::_Function_handler<ClassA (ClassB const&), analyzeTypes()::$_1>::_M_invoke",
+        "function_name": "_ZNSt17_Function_handlerIF6ClassARK6ClassBEZ12analyzeTypesvE3$_1E9_M_invokeERKSt9_Any_dataS3_"
+    },
+    "_ZSt10__invoke_rIvRZ12analyzeTypesvE3$_0JRK6ClassCEENSt9enable_ifIX16is_invocable_r_vIT_T0_DpT1_EES6_E4typeEOS7_DpOS8_": {
+        "bare_name": "$_0&, ClassC const&>",
+        "demangled_name": "std::__invoke_r<void, analyzeTypes()::$_0&, ClassC const&>",
+        "function_name": "_ZSt10__invoke_rIvRZ12analyzeTypesvE3$_0JRK6ClassCEENSt9enable_ifIX16is_invocable_r_vIT_T0_DpT1_EES6_E4typeEOS7_DpOS8_"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EED2Ev": {
+        "bare_name": "~__shared_ptr",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EED2Ev"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEE3getEv": {
+        "bare_name": "get",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::get",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEE3getEv"
+    },
+    "_ZNSt14_Sp_ebo_helperILi0ESaIvELb1EE6_S_getERS1_": {
+        "bare_name": "_S_get",
+        "demangled_name": "std::_Sp_ebo_helper<0, std::allocator<void>, true>::_S_get",
+        "function_name": "_ZNSt14_Sp_ebo_helperILi0ESaIvELb1EE6_S_getERS1_"
+    },
+    "_ZNSt16allocator_traitsISaIvEE9constructI6ClassBJEEEvRS0_PT_DpOT0_": {
+        "bare_name": "construct",
+        "demangled_name": "std::allocator_traits<std::allocator<void> >::construct<ClassB>",
+        "function_name": "_ZNSt16allocator_traitsISaIvEE9constructI6ClassBJEEEvRS0_PT_DpOT0_"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEE8allocateEmPKv": {
+        "bare_name": "allocate",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::allocate",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEE8allocateEmPKv"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEE10deallocateEPS5_m": {
+        "bare_name": "deallocate",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::deallocate",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEE10deallocateEPS5_m"
+    },
+    "_ZNSt9_Any_data9_M_accessIPKSt9type_infoEERT_v": {
+        "bare_name": "type_info const*>",
+        "demangled_name": "std::_Any_data::_M_access<std::type_info const*>",
+        "function_name": "_ZNSt9_Any_data9_M_accessIPKSt9type_infoEERT_v"
+    },
+    "_ZN9__gnu_cxx16__aligned_bufferI6ClassAE7_M_addrEv": {
+        "bare_name": "_M_addr",
+        "demangled_name": "__gnu_cxx::__aligned_buffer<ClassA>::_M_addr",
+        "function_name": "_ZN9__gnu_cxx16__aligned_bufferI6ClassAE7_M_addrEv"
+    },
+    "_ZNSt7__cxx119to_stringEi": {
+        "bare_name": "to_string",
+        "demangled_name": "std::__cxx11::to_string",
+        "function_name": "_ZNSt7__cxx119to_stringEi"
+    },
+    "_ZNK9__gnu_cxx17__normal_iteratorIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIS6_SaIS6_EEE4baseEv": {
+        "bare_name": "base",
+        "demangled_name": "__gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >::base",
+        "function_name": "_ZNK9__gnu_cxx17__normal_iteratorIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIS6_SaIS6_EEE4baseEv"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EEC2Ev": {
+        "bare_name": "vector",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EEC2Ev"
+    },
+    "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEE8allocateEmPKv": {
+        "bare_name": "allocate",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::allocate",
+        "function_name": "_ZNSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EEE8allocateEmPKv"
+    },
+    "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE9push_backERKS5_": {
+        "bare_name": "push_back",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back",
+        "function_name": "_ZNSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE9push_backERKS5_"
+    },
+    "_ZN6ClassAD2Ev": {
+        "bare_name": "~ClassA",
+        "demangled_name": "ClassA::~ClassA",
+        "function_name": "_ZN6ClassAD2Ev"
+    },
+    "_GLOBAL__sub_I_Recursive.cpp": {
+        "bare_name": "_GLOBAL__sub_I_Recursive.cpp",
+        "demangled_name": "_GLOBAL__sub_I_Recursive.cpp",
+        "function_name": "_GLOBAL__sub_I_Recursive.cpp"
+    },
+    "_ZSt4swapIPFbRSt9_Any_dataRKS0_St18_Manager_operationEENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleISA_ESt18is_move_assignableISA_EEE5valueEvE4typeERSA_SJ_": {
+        "bare_name": "_Manager_operation)>",
+        "demangled_name": "std::swap<bool (*)(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)>",
+        "function_name": "_ZSt4swapIPFbRSt9_Any_dataRKS0_St18_Manager_operationEENSt9enable_ifIXsr6__and_ISt6__not_ISt15__is_tuple_likeIT_EESt21is_move_constructibleISA_ESt18is_move_assignableISA_EEE5valueEvE4typeERSA_SJ_"
+    },
+    "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE8max_sizeEv": {
+        "bare_name": "max_size",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::max_size",
+        "function_name": "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE8max_sizeEv"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE5_Impl8_M_allocEv": {
+        "bare_name": "_M_alloc",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_Impl::_M_alloc",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE5_Impl8_M_allocEv"
+    },
+    "_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardC2EPS4_": {
+        "bare_name": "_Guard",
+        "demangled_name": "std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)::_Guard::_Guard",
+        "function_name": "_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardC2EPS4_"
+    },
+    "_ZSt8_DestroyI6ClassAEvPT_": {
+        "bare_name": "_Destroy",
+        "demangled_name": "std::_Destroy<ClassA>",
+        "function_name": "_ZSt8_DestroyI6ClassAEvPT_"
+    },
+    "_start": {
+        "bare_name": "_start",
+        "demangled_name": "_start",
+        "function_name": "_start"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE6_M_ptrEv": {
+        "bare_name": "_M_ptr",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_ptr",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE6_M_ptrEv"
+    },
+    "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EED2Ev": {
+        "bare_name": "~_Sp_counted_base",
+        "demangled_name": "std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::~_Sp_counted_base",
+        "function_name": "_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EED2Ev"
+    },
+    "_ZNSt11char_traitsIcE6lengthEPKc": {
+        "bare_name": "length",
+        "demangled_name": "std::char_traits<char>::length",
+        "function_name": "_ZNSt11char_traitsIcE6lengthEPKc"
+    },
+    "_ZNKSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEclES6_": {
+        "bare_name": "operator",
+        "demangled_name": "std::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>::operator()",
+        "function_name": "_ZNKSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEclES6_"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv": {
+        "bare_name": "_M_dispose",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_dispose",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv"
+    },
+    "_ZNKSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEE11_M_max_sizeEv": {
+        "bare_name": "_M_max_size",
+        "demangled_name": "std::__new_allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> >::_M_max_size",
+        "function_name": "_ZNKSt15__new_allocatorISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEE11_M_max_sizeEv"
+    },
+    "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE10_M_destroyERSt9_Any_dataSt17integral_constantIbLb1EE": {
+        "bare_name": "_M_destroy",
+        "demangled_name": "std::_Function_base::_Base_manager<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (*)(Node_cyclic)>::_M_destroy",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIPFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEE10_M_destroyERSt9_Any_dataSt17integral_constantIbLb1EE"
+    },
+    "_ZZ12analyzeTypesvENK3$_0clERK6ClassC": {
+        "bare_name": "operator",
+        "demangled_name": "analyzeTypes()::$_0::operator()",
+        "function_name": "_ZZ12analyzeTypesvENK3$_0clERK6ClassC"
+    },
+    "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEC2ERKS8_": {
+        "bare_name": "function",
+        "demangled_name": "std::function<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > (Node_cyclic)>::function",
+        "function_name": "_ZNSt8functionIFNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE11Node_cyclicEEC2ERKS8_"
+    },
+    "_ZN9__gnu_cxx17__normal_iteratorIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIS6_SaIS6_EEEC2ERKS7_": {
+        "bare_name": "__normal_iterator",
+        "demangled_name": "__gnu_cxx::__normal_iterator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >::__normal_iterator",
+        "function_name": "_ZN9__gnu_cxx17__normal_iteratorIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIS6_SaIS6_EEEC2ERKS7_"
+    },
+    "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEEC2ERS6_PS5_": {
+        "bare_name": "__allocated_ptr",
+        "demangled_name": "std::__allocated_ptr<std::allocator<std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2> > >::__allocated_ptr",
+        "function_name": "_ZNSt15__allocated_ptrISaISt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EEEEC2ERS6_PS5_"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE8allocateEmPKv": {
+        "bare_name": "allocate",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE8allocateEmPKv"
+    },
+    "_Z16functionWithLoopv": {
+        "bare_name": "functionWithLoop",
+        "demangled_name": "functionWithLoop",
+        "function_name": "_Z16functionWithLoopv"
+    },
+    "_ZN9StaticLib11splitStringERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEc": {
+        "bare_name": "splitString",
+        "demangled_name": "StaticLib::splitString",
+        "function_name": "_ZN9StaticLib11splitStringERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEc"
+    },
+    "_ZSt10_ConstructI6ClassAJEEvPT_DpOT0_": {
+        "bare_name": "_Construct",
+        "demangled_name": "std::_Construct<ClassA>",
+        "function_name": "_ZSt10_ConstructI6ClassAJEEvPT_DpOT0_"
+    },
+    "register_tm_clones": {
+        "bare_name": "register_tm_clones",
+        "demangled_name": "register_tm_clones",
+        "function_name": "register_tm_clones"
+    },
+    "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE8allocateERS6_m": {
+        "bare_name": "allocate",
+        "demangled_name": "std::allocator_traits<std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::allocate",
+        "function_name": "_ZNSt16allocator_traitsISaINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEE8allocateERS6_m"
+    },
+    "_Z11processNodeB5cxx1111Node_cyclic": {
+        "bare_name": "processNode",
+        "demangled_name": "processNode[abi:cxx11]",
+        "function_name": "_Z11processNodeB5cxx1111Node_cyclic"
+    },
+    "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag": {
+        "bare_name": "_M_construct",
+        "demangled_name": "std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>",
+        "function_name": "_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE9constructIS5_JS5_EEEvPT_DpOT0_": {
+        "bare_name": "allocator > >",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::construct<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE9constructIS5_JS5_EEEvPT_DpOT0_"
+    },
+    "_ZN9__gnu_cxxmiIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIS6_SaIS6_EEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSE_SH_": {
+        "bare_name": "allocator > > > >",
+        "demangled_name": "__gnu_cxx::operator-<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >",
+        "function_name": "_ZN9__gnu_cxxmiIPNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorIS6_SaIS6_EEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSE_SH_"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE5_ImplC2ES1_": {
+        "bare_name": "_Impl",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_Impl::_Impl",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EE5_ImplC2ES1_"
+    },
+    "_ZNSt8functionIFvRK6ClassCEEaSIZ12analyzeTypesvE3$_0EENSt9enable_ifIXsrNS4_9_CallableIT_NS7_IXntsr7is_sameINSt9remove_cvINSt16remove_referenceIS9_E4typeEE4typeES4_EE5valueESt5decayIS9_EE4type4typeESt15__invoke_resultIRSK_JS2_EEEE5valueERS4_E4typeEOS9_": {
+        "bare_name": "$_0>",
+        "demangled_name": "std::function<void (ClassC const&)>::operator=<analyzeTypes()::$_0>",
+        "function_name": "_ZNSt8functionIFvRK6ClassCEEaSIZ12analyzeTypesvE3$_0EENSt9enable_ifIXsrNS4_9_CallableIT_NS7_IXntsr7is_sameINSt9remove_cvINSt16remove_referenceIS9_E4typeEE4typeES4_EE5valueESt5decayIS9_EE4type4typeESt15__invoke_resultIRSK_JS2_EEEE5valueERS4_E4typeEOS9_"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E15_M_init_functorIRKS1_EEvRSt9_Any_dataOT_": {
+        "bare_name": "$_1 const&>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_1>::_M_init_functor<analyzeTypes()::$_1 const&>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_1E15_M_init_functorIRKS1_EEvRSt9_Any_dataOT_"
+    },
+    "__do_global_dtors_aux": {
+        "bare_name": "__do_global_dtors_aux",
+        "demangled_name": "__do_global_dtors_aux",
+        "function_name": "__do_global_dtors_aux"
+    },
+    "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEC2Ev": {
+        "bare_name": "__shared_ptr",
+        "demangled_name": "std::__shared_ptr<ClassA, (__gnu_cxx::_Lock_policy)2>::__shared_ptr",
+        "function_name": "_ZNSt12__shared_ptrI6ClassALN9__gnu_cxx12_Lock_policyE2EEC2Ev"
+    },
+    "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_M_check_lenEmPKc": {
+        "bare_name": "_M_check_len",
+        "demangled_name": "std::vector<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_check_len",
+        "function_name": "_ZNKSt6vectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESaIS5_EE12_M_check_lenEmPKc"
+    },
+    "_fini": {
+        "bare_name": "_fini",
+        "demangled_name": "_fini",
+        "function_name": "_fini"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EED2Ev": {
+        "bare_name": "~_Sp_counted_ptr_inplace",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassB, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_ptr_inplace",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassBSaIvELN9__gnu_cxx12_Lock_policyE2EED2Ev"
+    },
+    "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E9_M_createIS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE": {
+        "bare_name": "$_0>",
+        "demangled_name": "std::_Function_base::_Base_manager<analyzeTypes()::$_0>::_M_create<analyzeTypes()::$_0>",
+        "function_name": "_ZNSt14_Function_base13_Base_managerIZ12analyzeTypesvE3$_0E9_M_createIS1_EEvRSt9_Any_dataOT_St17integral_constantIbLb1EE"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info": {
+        "bare_name": "_M_get_deleter",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::_M_get_deleter",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info"
+    },
+    "_ZNSt17_Function_handlerIFvRK6ClassCEZ12analyzeTypesvE3$_0E9_M_invokeERKSt9_Any_dataS2_": {
+        "bare_name": "_M_invoke",
+        "demangled_name": "std::_Function_handler<void (ClassC const&), analyzeTypes()::$_0>::_M_invoke",
+        "function_name": "_ZNSt17_Function_handlerIFvRK6ClassCEZ12analyzeTypesvE3$_0E9_M_invokeERKSt9_Any_dataS2_"
+    },
+    "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2Ev": {
+        "bare_name": "__new_allocator",
+        "demangled_name": "std::__new_allocator<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >::__new_allocator",
+        "function_name": "_ZNSt15__new_allocatorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEEC2Ev"
+    },
+    "_ZNSt10shared_ptrI6ClassBEaSEOS1_": {
+        "bare_name": "operator=",
+        "demangled_name": "std::shared_ptr<ClassB>::operator=",
+        "function_name": "_ZNSt10shared_ptrI6ClassBEaSEOS1_"
+    },
+    "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EED2Ev": {
+        "bare_name": "~_Sp_counted_ptr_inplace",
+        "demangled_name": "std::_Sp_counted_ptr_inplace<ClassA, std::allocator<void>, (__gnu_cxx::_Lock_policy)2>::~_Sp_counted_ptr_inplace",
+        "function_name": "_ZNSt23_Sp_counted_ptr_inplaceI6ClassASaIvELN9__gnu_cxx12_Lock_policyE2EED2Ev"
+    }
+}
