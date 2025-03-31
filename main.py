@@ -22,13 +22,15 @@ def process_entry(function_name):
     if not function_name:
         return None, None
         
-    # Get demangled name
-    demangled_name = demangle_with_cxxfilt(function_name)
-    if demangled_name is None:
-        demangled_name = function_name
+    # # Get demangled name
+    # demangled_name = demangle_with_cxxfilt(function_name)
+    # if demangled_name is None:
+    #     demangled_name = function_name
     
     # Get bare name
-    bare_name = get_bare_function_name(function_name)
+    demangled_name, bare_name = get_bare_function_name(function_name)
+    if demangled_name is None:
+        demangled_name = function_name
     
     return demangled_name, bare_name
 
@@ -163,8 +165,8 @@ def main():
     mapping_files = [
         # ("dec_mapping_copy_yosys.json", "elf.json"),
         # ("elf_mapping_copy_yosys.json", "dec.json")
-        ("dec_mapping_copy_test.json", "elf.json"),
-        ("elf_mapping_copy_test.json", "dec.json")
+        ("/mnt/linuxstorage/vlsi-open-source-tool/output/yosys/yosys/elf_mapping.json", "elf_mapping.json"),
+        ("/mnt/linuxstorage/vlsi-open-source-tool/output/yosys/yosys/dec_mapping.json", "dec_mapping.json")
     ]
     
     # Count entries before processing

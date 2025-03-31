@@ -45,11 +45,8 @@ def get_bare_function_name(mangled_symbol):
     """
     demangled = demangle_with_cxxfilt(mangled_symbol)
     if demangled is None:
-        return mangled_symbol
+        demangled = mangled_symbol
 
-    # If demangling didn't change the symbol, return the original
-    if demangled == mangled_symbol:
-        return mangled_symbol
 
     # Process the demangled name to extract the bare function name
     # Following the same logic as in demangle_json.sh
@@ -77,9 +74,9 @@ def get_bare_function_name(mangled_symbol):
     
     # If we ended up with an empty string, use the original demangled name
     if not bare_name:
-        return demangled
+        return demangled, demangled
         
-    return bare_name
+    return demangled, bare_name
 
 if __name__ == "__main__":
     # List of sample mangled symbols.
@@ -97,7 +94,6 @@ if __name__ == "__main__":
     ]
     
     for sym in mangled_symbols:
-        demangled = demangle_with_cxxfilt(sym)
-        bare_name = get_bare_function_name(sym)
+        demangled, bare_name = get_bare_function_name(sym)
         if demangled:
             print(f"\n===============\nMangled: {sym}\n\nDemangled: {demangled}\nBare name: {bare_name}\n===============\n")
