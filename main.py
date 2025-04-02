@@ -39,14 +39,14 @@ def process_batch(batch):
     results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS_PER_PROCESS) as executor:
         future_to_key = {}
-        for key, function_name in batch:
+        for key, function_name in batch: # key and function_name are the same in our case
             future = executor.submit(process_entry, function_name)
             future_to_key[future] = key
         
         for future in concurrent.futures.as_completed(future_to_key):
             key = future_to_key[future]
             try:
-                results[key] = future.result()
+                results[key] = future.result() # match the entry name with a tuple that has demangled name and bare name
             except Exception as e:
                 print(f"Error processing entry {key}: {e}")
                 results[key] = (None, None)
@@ -101,8 +101,8 @@ def process_mapping_file(input_filename, output_filename):
             mapping = json.load(f)
         
         # Prepare entries for processing
-        entries_to_process = []
-        for key, entry in mapping.items():
+        entries_to_process = [] # a list of tuples
+        for key, entry in mapping.items(): #key should also look like function names
             if "function_name" in entry and entry["function_name"]:
                 entries_to_process.append((key, entry["function_name"]))
         
@@ -122,7 +122,7 @@ def process_mapping_file(input_filename, output_filename):
                 future_to_batch_size = {}
                 for batch in batches:
                     future = executor.submit(process_batch, batch)
-                    future_to_batch_size[future] = len(batch)
+                    future_to_batch_size[future] = len(batch) # each process will do this many entries
                 
                 # Collect results as they complete
                 for future in concurrent.futures.as_completed(future_to_batch_size):
@@ -210,9 +210,9 @@ def main():
             success_count += 1
             total_entries_processed += entries_processed
             expected = file_entry_counts[input_file][1]
-            print(f"✓ Completed {input_file} -> {output_file}: {entries_processed}/{expected} entries processed")
+            print(f"? Completed {input_file} -> {output_file}: {entries_processed}/{expected} entries processed")
         else:
-            print(f"✗ Failed processing {input_file} -> {output_file}")
+            print(f"? Failed processing {input_file} -> {output_file}")
     
     # Calculate total time
     elapsed_time = time.time() - start_time
